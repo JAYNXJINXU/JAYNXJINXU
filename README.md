@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JAYNXJINXU
 - 👀 Idk what are my interests, I just do stuff that I don't know.
-- 🌱 I’m currently learning Web development(both front-end and back-end development; Full stack)
-- 📫 Nothing special about me, I'm just a average person looking for inspirations.
+- 🌱 I’m currently learning Web development(both front-end and back-end development; Full stack) with Vue and Nuxt JS as well as Laravel
+- 📫 I am also learning embedded programming, networking and linux.
 
 ![Ziggs](https://gimgs2.nohat.cc/thumb/f/350/league-of-legends-riot-games-sticker-facebook-telegram-league-of-legends--5548217160695808.jpg)
 <!---
